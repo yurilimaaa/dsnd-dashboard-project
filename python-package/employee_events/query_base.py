@@ -2,7 +2,7 @@
 # YOUR CODE HERE
 
 # Define a class called QueryBase
-# Use inheritance to add method
+# Use inheritance to add methods
 # for querying the employee_events database.
 # YOUR CODE HERE
 
