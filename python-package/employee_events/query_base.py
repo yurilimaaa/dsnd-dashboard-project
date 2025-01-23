@@ -2,7 +2,6 @@
 # YOUR CODE HERE
 
 # Define a class called QueryBase
-# that has no parent class
 # YOUR CODE HERE
 
     # Create a class attribute called `name`
