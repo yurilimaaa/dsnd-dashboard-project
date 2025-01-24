@@ -238,8 +238,8 @@ class DashboardFilters(FormGroup):
 #### YOUR CODE HERE
 
     # Call the initialized report
-    # pass None and an instance
-    # of the QueryBase class as arguments
+    # pass the integer 1 and an instance
+    # of the Employee class as arguments
     # Return the result
     #### YOUR CODE HERE
 
