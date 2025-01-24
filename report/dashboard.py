@@ -108,6 +108,10 @@ from combined_components import FormGroup, CombinedComponent
         # pass the axis variable
         # to the `.set_axis_styling`
         # method
+        # Use keyword arguments to set 
+        # the border color and font color to black. 
+        # Reference the base_components/matplotlib_viz file 
+        # to inspect the supported keyword arguments
         #### YOUR CODE HERE
         
         # Set title and labels for x and y axis
